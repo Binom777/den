@@ -27,11 +27,15 @@
 
 `git clone https://github.com/Binom777/den.git`
 
-7. Подтягиваем зависимости
+7. Заходим внутрь директории
+
+`cd den`
+
+9. Подтягиваем зависимости
 
 `npm install`
 
-8. Пробуем запустить
+9. Пробуем запустить
 
 `./node_modules/.bin/electron den.js`
 

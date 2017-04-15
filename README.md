@@ -16,11 +16,8 @@
 
 После решения всех проблем с npm, устанавливаем git
 
-`
-sudo apt-get update
+`sudo apt-get update`
 
-sudo apt-get install git
-`
+`sudo apt-get install git`
 
-
-
+После чего в консоли фыа ф

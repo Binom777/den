@@ -1,0 +1,19 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "den.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/electron den.js ."
+  },
+  "author": "Binom",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.2",
+    "electron-rebuild": "^1.5.7"
+  },
+  "dependencies": {
+    "optimist": "^0.6.1"
+  }
+}
